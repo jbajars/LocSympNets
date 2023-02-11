@@ -13,4 +13,4 @@ Numerical code has been built on Anaconda open-source Python distribution platfo
 
 ### Technical instructions
 - Volume-preserving differential equations are coded in file `DynamicalSystems/VolumePreservingODEs.py`.
-- Training and testing data is compued in files: `DynamicalSystems/TrainingData_AdvectionEq.py`, `DynamicalSystems/TrainingData_RigidBody_Single.py`, `DynamicalSystems/TrainingData_RigidBody_Whole.py`, and `DynamicalSystems/TrainingData_ChargedParticle.py`.
+- Training and testing data is computed in the following files: `DynamicalSystems/TrainingData_AdvectionEq.py`, `DynamicalSystems/TrainingData_RigidBody_Single.py`, `DynamicalSystems/TrainingData_RigidBody_Whole.py`, and `DynamicalSystems/TrainingData_ChargedParticle.py`.
