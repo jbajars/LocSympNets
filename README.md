@@ -6,7 +6,7 @@ File LocSympNets_PureCode_WithoutData.zip contains pure code without precomputed
 <p float="left">
   <img src="Figures/Fig1.png" width="39%" />
   <img src="Figures/Fig2.png" width="29%" /> 
-  <img src="Figures/Fig3.png" width="29%" /> 
+  <img src="Figures/Fig3.png" width="28%" /> 
 </p>
 
 ### Technical instructions
