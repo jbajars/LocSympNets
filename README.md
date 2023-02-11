@@ -19,4 +19,5 @@ Numerical code has been built on Anaconda open-source Python distribution platfo
 - File `NeuralNetworkFnc/module-class.py` contains all LocSympNets and SymLocSympNets modules.
 - File `NeuralNetworkFnc/training-class.py` contains neural network training functions.
 - Additional neural network supporting functions are defined in files `NeuralNetworkFnc/mySequential.py` and `NeuralNetworkFnc/custom_dataset.py`.
-- Training script files with LocSympNets for four example cases are: `training_AdvectionEq_script.py`, `training_RigidBody_Single_script.py`, `training_RigidBody_Whole_script.py`, and `training_ChargedParticle_script.py`, respectively. 
+- LocSympNets training script files for four example cases are: `training_AdvectionEq_script.py`, `training_RigidBody_Single_script.py`, `training_RigidBody_Whole_script.py`, and `training_ChargedParticle_script.py`, respectively. 
+- SymLocSympNets training script files for four example cases are: `training_AdvectionEq_sym_script.py`, `training_RigidBody_Single_sym_script.py`, `training_RigidBody_Whole_sym_script.py`, and `training_ChargedParticle_sym_script.py`, respectively. 
