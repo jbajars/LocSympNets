@@ -16,3 +16,5 @@ Numerical code has been built on Anaconda open-source Python distribution platfo
 - Training and testing data is computed in the following files: `DynamicalSystems/TrainingData_AdvectionEq.py`, `DynamicalSystems/TrainingData_RigidBody_Single.py`, `DynamicalSystems/TrainingData_RigidBody_Whole.py`, and `DynamicalSystems/TrainingData_ChargedParticle.py`.
 - All training and testing data is saved in associated problem folders `DynamicalSystems/SavedTrainingData/...`.
 - All neural network functionas are defined in folder `NeuralNetworkFnc`.
+- File `NeuralNetworkFnc/module-class.py` contains all LocSympNets and SymLocSympNets modules.
+- File `NeuralNetworkFnc/training-class.py` contains neural network training functions.
