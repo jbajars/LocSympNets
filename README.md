@@ -9,7 +9,7 @@ File `LocSympNets_PureCode_WithoutData.zip` contains pure code without precomput
   <img src="Figures/Fig3.png" width="28%" /> 
 </p>
 
-Numerical code has been built on Anaconda open-source Python distribution platform using Spyder IDE. Code contains script files for training and predicting phase volume-preserving dynamics with LocSympNets and SymLocSympNets, considering three examples: learning linear traveling wave solutions to the semi-discretized advetion equation, periodic trajectories of the Euler equations of the motion of a free rigid body, and quasi-periodic solutions of the charged particle motion in an electromagnetic field. Rigid body example contains two cases: learning a single periodic trajectory and the whole dynamics from randomly sampled training data.
+Numerical code has been built on Anaconda's open-source Python distribution platform using Spyder IDE. Code contains script files for training and predicting phase volume-preserving dynamics with LocSympNets and SymLocSympNets, considering three examples: learning linear traveling wave solutions to the semi-discretized advection equation, periodic trajectories of the Euler equations of the motion of a free rigid body, and quasi-periodic solutions of the charged particle motion in an electromagnetic field. The rigid body example contains two cases: learning a single periodic trajectory and the whole dynamics from randomly sampled training data.
 
 #### Technical instructions
 - Volume-preserving differential equations are defined in file `DynamicalSystems/VolumePreservingODEs.py`.
