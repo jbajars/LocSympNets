@@ -22,6 +22,8 @@ Numerical code has been built on Anaconda open-source Python distribution platfo
 - LocSympNets training script files for four example cases are: `training_AdvectionEq_script.py`, `training_RigidBody_Single_script.py`, `training_RigidBody_Whole_script.py`, and `training_ChargedParticle_script.py`, respectively. 
 - SymLocSympNets training script files for four example cases are: `training_AdvectionEq_sym_script.py`, `training_RigidBody_Single_sym_script.py`, `training_RigidBody_Whole_sym_script.py`, and `training_ChargedParticle_sym_script.py`, respectively. 
 - All trained neural networks are saved in associated problem folders `SavedNeuralNets/...`.
+- LocSympNets prediction and testing script files for four example cases are: `predictions_AdvectionEq_script.py`, `predictions_RigidBody_Single_script.py`, `predictions_RigidBody_Whole_script.py`, and `predictions_ChargedParticle_script.py`, respectively. 
+- SymLocSympNets training and testing script files for four example cases are: `predictions_AdvectionEq_sym_script.py`, `predictions_RigidBody_Single_sym_script.py`, `predictions_RigidBody_Whole_sym_script.py`, and `predictions_ChargedParticle_sym_script.py`, respectively. 
 
 
 
