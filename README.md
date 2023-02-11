@@ -18,3 +18,4 @@ Numerical code has been built on Anaconda open-source Python distribution platfo
 - All neural network functionas are defined in folder `NeuralNetworkFnc`.
 - File `NeuralNetworkFnc/module-class.py` contains all LocSympNets and SymLocSympNets modules.
 - File `NeuralNetworkFnc/training-class.py` contains neural network training functions.
+- Additional neural network supporting functions are defined in files `NeuralNetworkFnc/mySequential.py` and `NeuralNetworkFnc/custom_dataset.py`.
