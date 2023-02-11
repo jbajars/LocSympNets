@@ -10,8 +10,3 @@ File LocSympNets_PureCode_WithoutData.zip contains pure code without precomputed
 </p>
 
 ### Technical instructions
-
-![Advection equation](Figures/AdvectionEq/Predictions/sym_Predictions_L2m35k0.png)
-
-![alt-text-1](Figures/AdvectionEq/Predictions/Predictions_L2m35k0.png "title-1") ![alt-text-2](Figures/AdvectionEq/Predictions/sym_Predictions_L2m35k0.png "title-2")
-
