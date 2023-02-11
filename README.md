@@ -13,4 +13,4 @@ Numerical code has been built on Anaconda open-source Python distribution platfo
 
 ### Technical instructions
 - Volume-preserving dynamics is defined in file <font face="Arial italic">DynamicalSystems/VolumePreservingODEs.py</font>.
-- ddd <font face="Arial">Your text here.</font>
+- ddd 'Your text here'
