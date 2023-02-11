@@ -10,3 +10,4 @@ File LocSympNets_PureCode_WithoutData.zip contains pure code without precomputed
 </p>
 
 ### Technical instructions
+Numerical code has been built on Anaconda open-source Python distribution platform using Spyder IDE.
