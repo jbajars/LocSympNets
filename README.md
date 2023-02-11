@@ -9,5 +9,6 @@ File LocSympNets_PureCode_WithoutData.zip contains pure code without precomputed
   <img src="Figures/Fig3.png" width="28%" /> 
 </p>
 
-### Technical instructions
 Numerical code has been built on Anaconda open-source Python distribution platform using Spyder IDE. Code contains script files for training adn predicting phase volume-preserving dynamics with LocSympNets and SymLocSympNets, considering three examples: learning linear traveling wave solutions to the semi-discretized advetion equation, periodic trajectories of the Euler equations of the motion of a free rigid body, and quasi-periodic solutions of the charged particle motion in an electromagnetic field.
+
+### Technical instructions
