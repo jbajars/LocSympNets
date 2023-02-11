@@ -4,9 +4,9 @@ PyTorch code for training locally-symplectic neural networks LocSympNets, and sy
 File LocSympNets_PureCode_WithoutData.zip contains pure code without precomputed training data, images and pretrained neural networks.
 
 <p float="left">
-  <img src="Figures/Fig1.png" width="40%" />
-  <img src="Figures/Fig2.png" width="30%" /> 
-  <img src="Figures/Fig3.png" width="30%" /> 
+  <img src="Figures/Fig1.png" width="39%" />
+  <img src="Figures/Fig2.png" width="29%" /> 
+  <img src="Figures/Fig3.png" width="29%" /> 
 </p>
 
 ### Technical instructions
